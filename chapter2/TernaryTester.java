@@ -9,3 +9,9 @@ public class TernaryTester {
     }
 
 }
+
+/*x is an int (a primitive type).
+
+  s is a String (a reference type).
+
+  The expression x == s is invalid because Java does not allow you to compare a primitive int with a reference String. */
