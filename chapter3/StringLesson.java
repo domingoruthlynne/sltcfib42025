@@ -29,7 +29,7 @@ public class StringLesson {
     */
     
         String string = "Ruthlynne Domingo";
-        System.out.println(string.length());
+        System.out.println(string.length()); 
         System.out.println(string.charAt(2));
         System.out.println(string.substring(string.indexOf('u')));
         System.out.println(string.indexOf('e', 0));
@@ -42,6 +42,11 @@ public class StringLesson {
         System.out.println(string);
 
         System.out.println();
+
+        String ss = "Hello World";
+        String s2 = "  Hello World".trim();
+        System.out.println(ss==s2);
+        System.out.println(ss.equals(s2)); // gagana pag may method, ito yung .equals
 
     }
 
