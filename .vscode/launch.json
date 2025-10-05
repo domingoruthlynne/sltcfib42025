@@ -1,0 +1,107 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EqualityOperator",
+            "request": "launch",
+            "mainClass": "EqualityOperator",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "IfSwitchStatament",
+            "request": "launch",
+            "mainClass": "IfSwitchStatament",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "LoopsWhileandDoWhileLesson",
+            "request": "launch",
+            "mainClass": "LoopsWhileandDoWhileLesson",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsLesson",
+            "request": "launch",
+            "mainClass": "OperatorsLesson",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "Task2",
+            "request": "launch",
+            "mainClass": "Task2",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "TernaryTester",
+            "request": "launch",
+            "mainClass": "TernaryTester",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "Salmon",
+            "request": "launch",
+            "mainClass": "chapter1.Salmon",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "Toy",
+            "request": "launch",
+            "mainClass": "chapter1.Toy",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "WaterBottle",
+            "request": "launch",
+            "mainClass": "chapter1.WaterBottle",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayLesson",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "StringLesson",
+            "request": "launch",
+            "mainClass": "chapter3.StringLesson",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "chapter3.Task3",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
+        {
+            "type": "java",
+            "name": "Task4_Palindrome",
+            "request": "launch",
+            "mainClass": "chapter3.Task4_Palindrome",
+            "projectName": "sltcfib42025_72d4fc00"
+        }
+    ]
+}
