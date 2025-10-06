@@ -4,8 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-        
+        {
+            "type": "java",
+            "name": "ArrayListLesson",
+            "request": "launch",
+            "mainClass": "chapter3.ArrayListLesson",
+            "projectName": "sltcfib42025_72d4fc00"
+        },
         {
             "type": "java",
             "name": "Current File",

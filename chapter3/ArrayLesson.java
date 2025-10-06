@@ -1,5 +1,5 @@
 package chapter3;
-import java.util.*;  // import who;e package including Arrays
+import java.util.*;  // import whole package including Arrays
 import java.util.Arrays; //import just arrays
 
 
